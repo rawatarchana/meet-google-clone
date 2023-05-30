@@ -99,8 +99,8 @@ body{
     .col-4 {
         width: 32.33333% !important;
     }
+    .footer-item .col-1:nth-child(3),
     .footer-item .col-1:nth-child(4),
-    .footer-item .col-1:nth-child(6),
     .footer-item .col-1:nth-child(7) {
         display: none;
     }
