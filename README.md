@@ -1,7 +1,5 @@
 # Project Name
 
-This a google photos clone page , it is a clone of home page ,create using only HTML and CSS .
+This a google meet clone page using HTML , CSS and Bootstrap.
 
-## Website Link
 
-Visit our website [here](https://github.com/rawatarchana/Photos/deployments/github-pages).
